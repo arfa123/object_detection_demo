@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>IMG_20200126_212728410_HDR.jpg</filename>
+	<path>D:\WorkingDirectory\Practice\ObjectDetection\images\test\IMG_20200126_212728410_HDR.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pajero</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>279</ymin>
+			<xmax>725</xmax>
+			<ymax>515</ymax>
+		</bndbox>
+	</object>
+</annotation>
